@@ -1,6 +1,6 @@
 # Research Agent
 
-This folder contains the implementation of a research agent built with LangGraph. The agent is designed to perform iterative research by generating analyst perspectives, conducting interviews (via web search and Wikipedia), and synthesizing a comprehensive report.
+This repository contains the implementation of a research agent built with LangGraph. The agent is designed to perform iterative research by generating analyst perspectives, conducting interviews (via web search and Wikipedia), and synthesizing a comprehensive report.
 
 ## Directory Structure
 
