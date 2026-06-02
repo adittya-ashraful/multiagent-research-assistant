@@ -24,7 +24,6 @@ research_agent/
 │   ├── analyst_prompts.py   # Prompts for analyst creation
 │   ├── interview_prompts.py # Prompts for question generation, answering, etc.
 │   └── report_prompts.py    # Prompts for report sections (intro, conclusion, etc.)
-└── __pycache__/          # Compiled Python files (ignored by Git)
 ```
 
 ## Key Components
